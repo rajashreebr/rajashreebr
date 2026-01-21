@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🔹 **Technical Lead** with 4+ years of experience in L2/L3 network protocol development  
+🔹 **Technical Lead** with 7+ years of experience in L2/L3 network protocol development  
 🔹 Expert in **ISIS, BGP, OSPF, MPLS, L3VPN, LDP, ACL** and routing protocols  
 🔹 Strong background in **C, Python, Linux systems programming**  
 🔹 Master's student in **Data Science** with a passion for ML and AI  
